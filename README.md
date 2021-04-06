@@ -1,4 +1,4 @@
-# Django Rest Apis
+# Django Rest APIs
 Django Rest APIs to get, create, update, post and delete an article
 ***
 Local Installation Guide:
