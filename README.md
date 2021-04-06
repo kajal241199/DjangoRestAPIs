@@ -1,5 +1,5 @@
 # Django Rest APIs
-Django Rest APIs to get, create, update, post and delete an article
+Django Rest APIs to get, create, update, post and delete an article details
 ***
 Local Installation Guide:
 ---
