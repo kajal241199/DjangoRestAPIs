@@ -35,7 +35,7 @@ deactivate
 ```
 
 ## Run the code at your local environment
-**Run it as**
+ * **Run it as**
 ```bash
  python manage.py runserver
  ```
