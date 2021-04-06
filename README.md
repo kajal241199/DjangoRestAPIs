@@ -40,3 +40,7 @@ deactivate
  python manage.py runserver
  ```
 >Open your browser/postman and the site can be found running at http://127.0.0.1:8000/
+
+## DjangoRESTAPIs Postman Collection
+cd MyProject/api_basic/
+
